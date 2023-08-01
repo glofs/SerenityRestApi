@@ -1,0 +1,20 @@
+models/users/RegisterUserInfo.java
+ models.users.RegisterUserInfo
+interaction/SeriesNetflix.java
+ interaction.SeriesNetflix
+models/users/Users.java
+ models.users.Users
+questions/ResponseCode.java
+ questions.ResponseCode
+questions/GetUsersQuestion.java
+ questions.GetUsersQuestion
+tasks/ResgisterOneUser.java
+ tasks.ResgisterOneUser
+models/users/Support.java
+ models.users.Support
+models/users/Datum.java
+ models.users.Datum
+tasks/GetAllUsers.java
+ tasks.GetAllUsers
+models/users/Series.java
+ models.users.Series
